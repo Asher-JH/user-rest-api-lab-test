@@ -1,0 +1,17 @@
+{
+    // Files
+    "files.eol": "\n",
+    "[json]": {
+      "editor.tabSize": 4
+    },
+    "editor.insertSpaces": true,
+    // Eslint
+    "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"],
+    "eslint.workingDirectories": [
+      {
+        "directory": "./",
+        "changeProcessCWD": true
+      }
+    ]
+  }
+  
