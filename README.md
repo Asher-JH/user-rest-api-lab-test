@@ -16,3 +16,10 @@
 - Postgresql
 - Prisma
 - Heroku
+
+## Endpoints
+- GET     `/api/users`     - All users
+- GET     `/api/user/:id`  - Single user
+- POST    `/api/user`      - Create user
+- PUT     `/api/user/:id`  - Update user
+- DELETE  `/api/user/:id`  - Delete user
