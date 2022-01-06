@@ -7,7 +7,7 @@
 
 ### Any changes regarding to SQL can be done in the `prisma` folder
 
-- Contant @Asher if you encounter any problems
+- Contact @Asher if you encounter any problems
 
 ## Tech Stack
 
